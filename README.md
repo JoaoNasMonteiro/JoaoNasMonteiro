@@ -18,6 +18,7 @@ Currently I'm working on:
   -  University stuff :p
 
 I would love to collaborate on:
+  - Open Source
   - Security research projects
   - IoT (especially embedded Linux) projects
   - Applied cybersecurity for industrial/cyberphysical systems
