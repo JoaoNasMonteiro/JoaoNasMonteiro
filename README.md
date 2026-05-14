@@ -10,7 +10,7 @@ I am also an Information Security intern, mostly messing around with Sysadmin in
 
 In the (very rare) moments that I am not thinking about cybersecurity or computer engineering you may find me listening to cool music, playing pandeiro, reading or sleeping.
 
-If you want to talk about cybersecurity, brazilian music, or any other cool topics you can reach me at joaonasmont@gmail.com. If you want to see some of my ramblings you can find me as isitnago@infosec.exchange at Mastodon.
+If you want to talk about cybersecurity, brazilian music, or any other cool topics you can reach me at [joaonasmont@gmail.com](mailto:joaonasmont@gmail.com). If you want to see some of my ramblings you can find me as [isitnago@infosec.exchange](https://infosec.exchange/@isitnago) at Mastodon.
 
 Some of the tools and technologies that i've worked (and enjoyed working) with are:
 -   Languages: C, Python, Bash
