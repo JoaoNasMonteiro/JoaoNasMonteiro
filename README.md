@@ -13,10 +13,10 @@ In the (very rare) moments that I am not thinking about cybersecurity or compute
 If you want to talk about cybersecurity, brazilian music, or any other cool topics you can reach me at joaonasmont@gmail.com. If you want to see some of my ramblings you can find me as isitnago@infosec.exchange at Mastodon.
 
 Some of the tools and technologies that i've worked (and enjoyed working) with are:
--   Languages & Scripting: C, Python, Bash
--   Security & Defensive Ops: Wazuh SIEM, YARA, Cowrie (Honeypot)
--   Environment & Virtualization: QEMU, GNU/Linux
--   Protocols & Libraries: Eclipse Paho (MQTT)
+-   Languages: C, Python, Bash
+-   Security: Wazuh SIEM, YARA, Cowrie
+-   Environment: QEMU, GNU/Linux
+-   Protocols: Eclipse Paho (MQTT)
 
 Currently I'm working on:
   - An article/blog about computer memory
