@@ -19,6 +19,7 @@ Some of the tools and technologies that i've worked (and enjoyed working) with a
 -   Protocols: Eclipse Paho (MQTT)
 
 Currently I'm working on:
+  - A Chip8 Interpreter
   - An article/blog about computer memory
   - A small self hosted kubernetes lab
   - IoT malware detection/reversing labs
@@ -36,3 +37,5 @@ I would love to collaborate on:
   - Game Jams
   - Jazz/Samba/Bossa Nova Jams
   - Things that make the world a better place
+
+![Meu Trabalho é Clicar em Botões e Apertar Teclas](images.jpg)
