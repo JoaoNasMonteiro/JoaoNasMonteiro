@@ -1,3 +1,5 @@
+![Meu Trabalho é Clicar em Botões e Apertar Teclas](images.jpg)
+
 ## Heya o/
 
 I am João Pedro N. Monteiro (he/him), a Computer Engineering student from beautiful Salvador/Bahia, Brazil.
@@ -38,4 +40,4 @@ I would love to collaborate on:
   - Jazz/Samba/Bossa Nova Jams
   - Things that make the world a better place
 
-![Meu Trabalho é Clicar em Botões e Apertar Teclas](images.jpg)
+
