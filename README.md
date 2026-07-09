@@ -21,8 +21,8 @@ Some of the tools and technologies that i've worked (and enjoyed working) with a
 -   Protocols: Eclipse Paho (MQTT)
 
 Currently I'm working on:
-  - A Chip8 Interpreter
-  - An article/blog about computer memory
+  - [A Chip8 Interpreter/emulator](https://github.com/JoaoNasMonteiro/chip-8-emulator)
+  - [An article/blog about computer memory](https://github.com/JoaoNasMonteiro/chip-8-emulator)
   - A small self hosted kubernetes lab
   - IoT malware detection/reversing labs
   - [A little IoT SSH/TELNET/MQTT honeypot](https://github.com/JoaoNasMonteiro/Orange-Sentry)
